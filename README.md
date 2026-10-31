@@ -1,0 +1,1 @@
+Politique de confidentialité de Trisfera, pour les fiches des stores (dans l'app, elle s'affiche en entier). Générée par `tools/site/build_site.py --legal` dans le dépôt du jeu. Ne pas modifier à la main.
